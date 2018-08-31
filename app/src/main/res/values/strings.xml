@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KamusOffline</string>
+    <string name="app_first_run">first_run</string>
+    <string name="loading">LOAD DATA</string>
+    <!--<string name="no_data">Tekan tombol search dan ketik kata yang dicari</string>-->
+    <string name="no_data">Tap search button and type your word</string>
+    <string name="search">Search</string>
+    <string name="search_hint_eng">Type English word</string>
+    <string name="search_hint_indo">Type Indonesia word</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="all_english_words">All English Words</string>
+    <string name="all_indonesia_words">All Indonesia Words</string>
+    <string name="indonesia_english">Indonesia - English</string>
+    <string name="english_indonesia">English - Indonesia</string>
+
+</resources>

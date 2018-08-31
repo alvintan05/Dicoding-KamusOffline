@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group >
+        <item
+            android:id="@+id/eng_indo"
+            android:icon="@drawable/ic_translate_black_24dp"
+            android:title="@string/english_indonesia" />
+        <item
+            android:id="@+id/indo_eng"
+            android:icon="@drawable/ic_translate_black_24dp"
+            android:title="@string/indonesia_english" />
+    </group>
+
+    <group android:id="@+id/allwords">
+        <item
+            android:id="@+id/all_english_words"
+            android:title="@string/all_english_words"/>
+        <item
+            android:id="@+id/all_indonesia_words"
+            android:title="@string/all_indonesia_words"/>
+    </group>
+
+</menu>
