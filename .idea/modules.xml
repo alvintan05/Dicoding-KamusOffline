@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dicoding-KamusOffline.iml" filepath="$PROJECT_DIR$/Dicoding-KamusOffline.iml" group="Dicoding-KamusOffline" />
+      <module fileurl="file://$PROJECT_DIR$/app/Dicoding-KamusOffline-app.iml" filepath="$PROJECT_DIR$/app/Dicoding-KamusOffline-app.iml" group="Dicoding-KamusOffline/app" />
       <module fileurl="file://$PROJECT_DIR$/KamusOffline.iml" filepath="$PROJECT_DIR$/KamusOffline.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
