@@ -28,4 +28,5 @@ This is my submission 4 at Dicoding online course at class Belajar Fundamental A
 <a href="https://drive.google.com/file/d/1j-gUNPHwxXDmN5-09BIwYixkuPldBvIJ/view?usp=sharing" title="Kamus Offline Apps">Download Here</a>
 
 ## Author
-* **Alvin Tandiardi**
+| [<img src="https://avatars1.githubusercontent.com/u/32356015?v=3" width="100px;"/><br /><sub><b>Alvin Tandiardi</b></sub>](https://github.com/alvintan05)<br /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
